@@ -1,5 +1,3 @@
-## 👋 Hi, I’m @umeshmehtre
-I'm a dedicated Data Analyst, Business Analyst, and Data Scientist passionate about leveraging data to drive insightful decision-making and solve complex problems.
 
 ## 👀 I’m interested in...
 - Data Analytics and Visualization
