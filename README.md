@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **umesh.mehtre@outlook.com**
 
-- 📄 Know about my experiences [https://umeshmehtre.github.io/Portfolio/](https://umeshmehtre.github.io/Portfolio/)
+- 📄 Know about my experiences [https://umeshmehtre.github.io/umeshmehtre-github.io/](https://umeshmehtre.github.io/umeshmehtre-github.io/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
