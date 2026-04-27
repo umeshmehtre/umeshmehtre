@@ -18,45 +18,7 @@
 
 ---
 
-## 🧠 About Me
-
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name         = "Umesh Mehtre"
-        self.role         = "AI Engineer"
-        self.location     = "London, United Kingdom"
-        self.education    = "MSc Artificial Intelligence — Birmingham City University"
-        self.focus        = ["Generative AI", "LLMs", "RAG Pipelines", "NLP", "ML Systems"]
-        self.currently    = "Building LLM-powered applications & AI agents"
-        self.seeking      = "AI Engineer roles — open to relocation"
-
-    def impact(self):
-        return {
-            "predictive_accuracy":    "+25% (Transformer-based ML models)",
-            "churn_reduction":        "-16% (AI-driven systems)",
-            "customer_acquisition":   "+10% (data-backed recommendations)",
-            "records_analysed":       "50,000+ startup records via SQL",
-            "risk_factor_detection":  "+50% (Power BI dashboards)",
-        }
-```
-
 ---
-
-## ⚡ Impact at a Glance
-
-<div align="center">
-
-| 🎯 Metric | 📈 Result | 🏢 Where |
-|---|---|---|
-| Predictive Accuracy | **+25%** | HibretOne CIC |
-| Risk Factor Detection | **+50%** | HibretOne CIC |
-| Customer Acquisition | **+10%** | AI-driven systems |
-| Churn Reduction | **-16%** | ML deployment |
-| Profit Margin Projection | **+25%** | Dezignolics |
-| Forecasting Accuracy | **80%** | Dezignolics |
-
-</div>
 
 ---
 
@@ -68,7 +30,6 @@ class AIEngineer:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI / ML / Deep Learning**
 
@@ -111,7 +72,6 @@ class AIEngineer:
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🏥 **Healthcare Chatbot** | Conversational AI for patient queries using NLP & intent recognition | `Python` `NLP` `Chatbot` | [→ View](https://github.com/umeshmehtre/Healthcare-Chatbot) |
-| 🦙 **Healthcare Chatbot — Llama 3.1 8B** | End-to-end LLM deployment with Meta's Llama 3.1 fine-tuned on medical data | `Llama 3.1` `Hugging Face` `Python` | [→ View](https://github.com/umeshmehtre/Healthcare-Chat-Bot-Llama-3.1-8b) |
 | 🤖 **AI Agent — LinkedIn Automation** | Autonomous agent using LLMs for profile analysis & career optimisation | `AI Agents` `LLM` `Python` | [→ View](https://github.com/umeshmehtre/aiagentlinkedin) |
 | 📄 **CV Optimizer** | LLM-powered CV scorer & rewriter for ATS + recruiter optimisation | `Python` `LLM` `NLP` | [→ View](https://github.com/umeshmehtre/cv-optimizer) |
 | 💳 **Fraud Detection App** | Real-time credit card fraud detection with Streamlit dashboard | `Python` `Streamlit` `ML` | [→ View](https://github.com/umeshmehtre/fraud-detection-streamlit-app) |
@@ -155,7 +115,9 @@ class AIEngineer:
 ## 💼 Experience Timeline
 
 ```
-🔵 Oct 2025 – Present  │  Data Annotator @ PaladinAI
+🔵 April 2026 – Present  │  Data Operations Specialist @ PaladinAI
+
+🔵 Oct 2025 – April 2026  │  Data Annotator Specialist  @ PaladinAI
                         │  High-quality dataset prep for AI training & evaluation
                         │
 🔵 Sep 2022 – Aug 2023  │  Data Science Intern @ HibretOne CIC · Birmingham, UK
